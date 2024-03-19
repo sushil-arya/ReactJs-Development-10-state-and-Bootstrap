@@ -1,8 +1,10 @@
 header,footer{
-    height: 200px;
+   
     background: #7431FA;
-    color:whitesmoke;
     
+}
+.f_color{
+    color: whitesmoke;
 }
 
 main{
