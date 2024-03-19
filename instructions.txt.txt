@@ -1,0 +1,40 @@
+Project 10 - class state and bootstrap
+
+class A {
+
+ name, surname, age;
+
+}
+
+class B extends React.Component{
+
+    //1. Property Area
+
+    // it is not a right approch to initilize the property instead this we will use
+    // constructor
+    name=' ';
+    surname = ' ';
+    age = ' ';
+
+     // it is inbuild javascript object
+     state = { 
+
+      }
+
+    //2. Constructor Area
+            //it is special method and it is used to initialize the properties
+
+         this.state = {
+			
+         }
+
+    //3. method
+    
+
+}
+
+
+
+
+
+}
